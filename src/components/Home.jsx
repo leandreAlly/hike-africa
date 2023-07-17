@@ -47,10 +47,13 @@ const Home = () => {
           <h2 className='text-2xl font-bold cursor-default'>D I S C O V E R</h2>
           <h1 className='text-5xl font-bold cursor-default'>AFRICA</h1>
           <p className='mx-10 text-gray-400 cursor-default'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quam
-            consequatur, necessitatibus dolorem, provident voluptas esse
-            recusandae impedit distinctio laboriosam modi a nulla ratione
-            quaerat?
+            East Africa is a land of incredible beauty and diversity, where you
+            can witness some of the most awe- inspiring natural wonders on the
+            planet. From the majestic Mount Kilimanjaro to the vast plains of
+            the Serengeti, In Rwanda, you can trek through the lush rainforest
+            of Nyungwe National Park to see chimpanzees and other primates up
+            close, or visit Volcanoes National Park to witness the majestic
+            mountain gorillas in their natural habitat.
           </p>
         </div>
 

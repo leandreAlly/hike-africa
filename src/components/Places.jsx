@@ -5,10 +5,11 @@ const Places = () => {
   return (
     <div className='w-4/5 m-auto cursor-default'>
       <div className='w-full xl:w-1/2 m-auto text-center my-10 space-y-5'>
-        <h1 className='text-4xl font-bold'>Places not to be missed</h1>
+        <h1 className='text-4xl font-bold'>Hidden Gems</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, a
-          quibusdam. Et nostrum accusamus sunt fugiat, corrupti aut sint totam.
+          In Rwanda, you can explore the stunning Nyungwe Forest National Park,
+          home to over 1,000 species of plants and animals, including
+          chimpanzees and colobus monkeys.
         </p>
       </div>
 
